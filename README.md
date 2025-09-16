@@ -50,4 +50,4 @@ The pipeline processes raw transaction data, performs data cleaning and transfor
 ## 🚀 How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/arslanaslam-work/ETL-Pipeline-Databricks.git
+   git clone https://github.com/arslanaslam-work/ETL-Pipeline.git
